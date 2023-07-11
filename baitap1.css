@@ -1,0 +1,53 @@
+:root {
+    --orange-color: #3bb8d1;
+    --yellow-color: #d5d32f;
+    --white-color: #ffffff;
+    --green-color: #62af5e;
+    --red-color: #d9544f;
+    --black-color: #000000;
+}
+
+.w{
+    display: flex;
+    justify-content: center;
+}
+
+.size {
+    background-color: var(--orange-color);
+    color: var(--white-color);
+    width: 190px;
+    height: 50px;
+    /* margin-left: calc(50% - 95px); */
+}
+
+.s {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.Shared {
+    font-size: 50px;
+    color: #1ca0c8;
+    font-weight: 900;
+}
+
+.Whith {
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
+
+.btn {
+    font-size: 20px;
+    background-color: #000000;
+    color: var(--white-color);
+    width: 190px;
+    height: 50px;
+    margin: 10px;
+    /*thêm khoảng cách giữa các nút  */
+}

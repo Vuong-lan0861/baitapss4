@@ -1,0 +1,33 @@
+:root {
+    --orange-color: #de8704;
+    --yellow-color: #d5d32f;
+    --white-color: #ffffff;
+    --green-color: #62af5e;
+    --red-color: #d9544f;
+    --black-color: #000000;
+}
+
+body {
+    background-image: url(Ảnh\ màn\ hình\ 2023-07-11\ lúc\ 03.57.37.png);
+    background-repeat: no-repeat;
+}
+
+.form {
+    background-image: url(anh.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    text-align: center;
+    border: #ffffff;
+    width: 600px;
+    height: 500;
+    border-style: solid;
+    border-color: #62af5e;
+}
+
+.get {
+    background-color: #62af5e;
+    color: #ffffff;
+    font-size: 10px;
+}
